@@ -9,11 +9,11 @@ Buat project baru dengan  nama layout_flutter dan kemudian buka lib main.dart ga
 
 Kemudian ini hasilnya
 
-![Screenshot](images/ 01.png)
+![Screenshot](images/01.png)
 
 Lalu Implementasi title row tambahkan kode seperti gambar di bawah di bagian atas metode build 
 
-![Screenshot](images/ 02.png)
+![Screenshot](images/02.png)
 
 Berikut hasilnya
 ![Screenshot](images/per 2.png)
