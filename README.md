@@ -16,7 +16,7 @@ Lalu Implementasi title row tambahkan kode seperti gambar di bawah di bagian ata
 ![Screenshot](images/02.png)
 
 Berikut hasilnya
-![Screenshot](images/per 2.png)
+![Screenshot](images/007.png)
 
 
 # 2: IMPLEMENTASI BUTTON ROW
