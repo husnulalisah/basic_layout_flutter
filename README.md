@@ -33,36 +33,36 @@ Kemudian membuat widget buttonSection dengan fungsi buildButtonColumn
 
 Berikut hasilnya
 
-![Screenshot](images/per 2.png)
+![Screenshot](images/006.png)
 
 
 # 3: IMPLEMENTASI TEXT SECTION
 
 Selanjutnya buat widget textSection input teks ke dalam container Lalu tambahkan widget variable textSection ke dalam body
 
-![Screenshot](images/06.png)
+![Screenshot](images/005.png)
 
 
 kemudian hasil dari di atas
 
-![Screenshot](images/per 3.png)
+![Screenshot](images/004.png)
 
 
 # 4: IMPLEMENTASI IMAGE SECTION
 
 Buat folder assets dan masukan foto yang akan di gunakan di folder assets, lalu set di file pubspec.yml
 
-![Screenshot](images/6.png)
+![Screenshot](images/003.png)
 
 
 Langkah terahir atur elemen dalam LisView seperti gambar berikut
 
-![Screenshot](images/7.png)
+![Screenshot](images/002.png)
 
 
 Berikut adalah hasilnya
 
-![Screenshot](images/per 4.png)
+![Screenshot](images/001.png)
 
 
 
